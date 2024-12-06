@@ -1,0 +1,5 @@
+jupyterlab
+cadquery==2.4
+cadquery[ipython]
+jupyter-cadquery==3.5.2
+cadquery-massembly
